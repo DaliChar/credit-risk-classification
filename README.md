@@ -1,7 +1,7 @@
+# Credit-risk-classification
+
 ![small](https://user-images.githubusercontent.com/112433621/227211600-3291d7f7-92c7-4cb0-a934-55d1febfce49.jpg)
 
-
-**Credit-risk-classification**
 
 In this Challenge, We’ll use various techniques to train and evaluate a model based on loan risk. We’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
 
@@ -17,6 +17,9 @@ In this Challenge, We’ll use various techniques to train and evaluate a model 
 
 - Write a Credit Risk Analysis Report
 
+# Credit Risk Report 
+![s](https://user-images.githubusercontent.com/112433621/227235577-60f43006-3c23-4a69-b808-f826b9f0e046.jpg)
+
 
 ## Analysis Overview
 
@@ -27,11 +30,13 @@ The data was used to build a model that can identify the creditworthiness of bor
 
 In order to achieve this, we first had to seperate the data in two seperate parts, one was for training the model and the second set of data was to test the perfomance of the model.Once this was done we created a Logistic Regression Model and carried out some analysis.
 
-#### add image of spliting 
+<img width="637" alt="splitting" src="https://user-images.githubusercontent.com/112433621/227233743-e4986c47-a1c2-4744-a62b-96d0965b0ba2.png">
+ 
 
 ## The Results
 
 ### Logistic Regression Model Scoring
+<img width="498" alt="Classification report testing" src="https://user-images.githubusercontent.com/112433621/227234221-aec57f12-db76-4b40-983c-db5b229cde82.png">
 
 ##### Healthy Loans
 - Precision 100%
@@ -44,6 +49,7 @@ In order to achieve this, we first had to seperate the data in two seperate part
 - F1-Score 88%
 
 ### OverSampled Data Model Scoring
+<img width="521" alt="Classification report training" src="https://user-images.githubusercontent.com/112433621/227234404-26057714-0bde-41d7-8af3-bb139feacb23.png">
 
 ##### Healthy Loans
 - Precision 100%
