@@ -1,4 +1,4 @@
-![Readme main image](https://user-images.githubusercontent.com/112433621/227211058-074bc3df-459f-4d9f-89ef-f293fbbf19bf.jpg)
+![small](https://user-images.githubusercontent.com/112433621/227211600-3291d7f7-92c7-4cb0-a934-55d1febfce49.jpg)
 
 
 **Credit-risk-classification**
